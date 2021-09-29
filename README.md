@@ -1,4 +1,4 @@
-# MachineLearningBasic
+# Basic Machine Learning, Andrew Wu's Course
 Andrew Wu ML Homework Code
 
 - HW1 Linear Regression
